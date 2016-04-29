@@ -1,15 +1,15 @@
-p.green{
+#green{
 	color: green;
 }
 
-p.lightblue{
+#lightblue{
 	color: rgb(30,30,30);
 }
 
-p.blue{
+#blue{
 	color: blue;
 }
 
-p.red{
+#red{
 	color: red;
 }
