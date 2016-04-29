@@ -1,11 +1,11 @@
 @font-face {
-	font-family: "EmblemaOne-Regular";
+	font-family: EmblemaOne-Regular;
 	src: url(http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.woff),
 		 url(http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.ttf);
 }
 		
 
 h1 {
-	font-family: "EmblemaOne-Regular";
+	font-family: EmblemaOne-Regular;
 	color: green;
 }
