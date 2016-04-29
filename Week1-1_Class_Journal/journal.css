@@ -1,11 +1,20 @@
 @font-face {
-	font-family: EmblemaOne-Regular;
+	font-family: EmblemaOne;
 	src: url(http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.woff);
-	src: url(http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.ttf);
 }
 		
 
 h1 {
-	font-family: EmblemaOne-Regular;
+	font-family: EmblemaOne;
+	color: orange;
+}
+
+h2 {
+	font-family: fantasy;
 	color: green;
+}
+
+p {
+	font-family: cursive;
+	color: red;
 }
