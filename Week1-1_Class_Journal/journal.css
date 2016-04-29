@@ -1,3 +1,9 @@
-body{
-	font-family: cursive, fantasy, verdana, sans-serif;
+@font-face{
+	font-family: "Emblema One";
+	src: url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regulat.woff"),
+		 url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regulat.ttf"),
+}
+
+<h1> {
+	font-family: "Emblema One";
 }
