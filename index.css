@@ -1,3 +1,47 @@
-h1 {
-	font-family: 'Lobster', cursive;
+#header {
+	color: #999999;
+	background-color: white;
 }
+
+.td11 {
+	background: url('images/segway1.jpg');
+	background-size: 150px 150px;
+}
+
+.td13 {
+	background: url('images/lightblue.jpg');
+	background-size: 150px 150px;
+}
+
+.td22 {
+	background: url('images/applestore.jpg');
+	background-size: 150px 150px;
+}
+
+.td24 {
+	background: url('images/me.jpg');
+	background-size: 150px 150px;
+}
+
+.td31 {
+	background: url('images/table.jpg');
+	background-size: 150px 150px;
+}
+
+
+
+
+
+
+
+.td11 a, .td13 a, .td22 a, .td24 a, .td31 a {
+	display: none;
+}
+.td11:hover a, .td13:hover a, .td22:hover a, .td24:hover a, .td31:hover a {
+	display: block;
+	opacity: 1;
+
+}
+
+
+
