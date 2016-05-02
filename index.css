@@ -1,0 +1,13 @@
+h1 {
+	font-family: 'Lobster', cursive;
+}
+p {
+	color: green;
+}
+
+body {
+	background-image: url('images/indexbg.jpg');
+	background-repeat:no-repeat;
+	background-color: white;
+}
+
