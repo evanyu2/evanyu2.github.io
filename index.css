@@ -43,7 +43,7 @@
 
 
 
-.td11 a, .td13 a, .td22 a, .td24 a, .td31 a .td42 a, .td44 a {
+.td11 a, .td13 a, .td22 a, .td24 a, .td31 a, .td42 a, .td44 a {
 	display: none;
 }
 .td11:hover a, .td13:hover a, .td22:hover a, .td24:hover a, .td31:hover a, .td42:hover a, .td44:hover a {
