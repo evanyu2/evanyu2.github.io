@@ -1,0 +1,69 @@
+.nav {
+
+	background-color: #333333; 
+	height: 50px;
+	padding-left: 200px;
+	margin: auto;
+}
+
+/* Choose nav- of class */
+[class*="nav-"] {
+
+	padding: 0px 15px;
+    float: left;
+    color: white;
+}
+
+.content {
+	background-color: #E6E6E6;
+	margin: 50px 200px 50px 200px;
+	padding: 15px 15px 70px 15px;
+}
+
+.content .button {
+	background-color: #0080FF;
+	color: white;
+	border-radius: 5px;
+	border: 0px;
+
+}
+
+.footer .f {
+	padding-left: 200px;
+}
+
+table {
+	text-align: center;
+	/*border: 1px red solid;*/
+	width: auto;
+}
+td {
+	/*border: 1px red solid;*/
+
+}
+
+.ad, .bd, .cd, .dd {
+	background-color: #CCCCCC; 
+	text-align: center;
+	width: 200px;
+	height: 120px;
+}
+
+.Sad, .Sbd, .Scd, .Sdd {
+	border:1px solid #CCCCCC ;
+	text-align: center;
+	width: 200px;
+	height: 120px;
+}
+
+.buttonY {
+	background-color: #0080FF;
+	color: white;
+	border-radius: 5px;
+	border: 0px;
+}
+
+.buttonN {
+	border-radius: 0px;
+
+}
